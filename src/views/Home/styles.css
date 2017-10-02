@@ -1,0 +1,31 @@
+.HomeContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.HomeLoginButton {
+  background-color: rgb(44, 124, 154);
+  color: rgb(255, 255, 255);
+
+  padding: 12px 25px;
+
+  border-radius: 2px;
+  border: none;
+
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: normal;
+
+  text-decoration: none;
+}
+
+.HomeLoginButton:hover {
+  background-color: rgb(49, 145, 180);
+}
+
+.HomeLoginButton:active {
+  background-color: rgba(44, 125, 154, 0.43);
+}

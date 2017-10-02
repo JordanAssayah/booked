@@ -1,0 +1,17 @@
+[
+  {
+    "id": "app.containers.Navigation.home",
+    "defaultMessage": "Home",
+    "message": "Home"
+  },
+  {
+    "id": "app.containers.Navigation.library",
+    "defaultMessage": "Library",
+    "message": "Library"
+  },
+  {
+    "id": "app.containers.Navigation.builder",
+    "defaultMessage": "Builder",
+    "message": "Builder"
+  }
+]
